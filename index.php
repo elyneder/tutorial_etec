@@ -12,6 +12,7 @@ $dados_alunos = mysqli_query($mysqli, "SELECT * from alunos");
 </head>
 <body>
     <h1>Mudei o titulo</h1>
+    <p>Alterando o código</p>
     <table width='70%' border=1>
     <tr>
         <td><strong>Id do Aluno</strong></td>
